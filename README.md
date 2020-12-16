@@ -1,4 +1,4 @@
-## Template project for deploying your Tensorflow models with Webpack
+## Template project for deploying your TensorFlow models with Webpack
 
 I spent too much time puzzling out how to go from a Keras model written in Python, to having something deployed as a website with GitHub Pages. I will walk through what ended up working so you save time where I couldn't :smile:
 
